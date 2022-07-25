@@ -1,0 +1,36 @@
+Error Type:    PathNotFound
+Error Level:   Fatal
+Error Message: Path not found: start--server
+Your Input:    start--server
+CWD:           C:\Users\Debashis\OneDrive\Desktop\git
+Resolved to:   C:\Users\Debashis\OneDrive\Desktop\git\start--server
+Error Type:    PathNotFound
+Error Level:   Fatal
+Error Message: Path not found: !
+Your Input:    !
+CWD:           C:\Users\Debashis\OneDrive\Desktop\git
+Resolved to:   C:\Users\Debashis\OneDrive\Desktop\git\!
+Error Type:    PathNotFound
+Error Level:   Fatal
+Error Message: Path not found: [rejected]
+Your Input:    [rejected]
+CWD:           C:\Users\Debashis\OneDrive\Desktop\git
+Resolved to:   C:\Users\Debashis\OneDrive\Desktop\git\[rejected]
+Error Type:    PathNotFound
+Error Level:   Fatal
+Error Message: Path not found: -
+Your Input:    -
+CWD:           C:\Users\Debashis\OneDrive\Desktop\git
+Resolved to:   C:\Users\Debashis\OneDrive\Desktop\git\-
+Error Type:    PathNotFound
+Error Level:   Fatal
+Error Message: Path not found: (fetch
+Your Input:    (fetch
+CWD:           C:\Users\Debashis\OneDrive\Desktop\git
+Resolved to:   C:\Users\Debashis\OneDrive\Desktop\git\(fetch
+Error Type:    PathNotFound
+Error Level:   Fatal
+Error Message: Path not found: first)
+Your Input:    first)
+CWD:           C:\Users\Debashis\OneDrive\Desktop\git
+Resolved to:   C:\Users\Debashis\OneDrive\Desktop\git\first)
